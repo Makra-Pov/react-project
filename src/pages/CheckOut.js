@@ -29,7 +29,7 @@ const CheckoutForm = () => {
     };
 
     const initialPayPalOptions = {
-        "client-id": "AZsg0CU6mNHveGmpF90bMucCtWGs2ZKPUKg7B2iQzzFYvQoYcH2p_L_MREqXMJgYPtjeZ43Fq11uDhIf",
+        "client-id": "AeemyGb85Lnyg6rRXkE3jchc8K5w13Toj5keNTkJYcYWr4IQr-OJEs5JRIGIKfylbm1vJwMT7Ly-e3nP",
         currency: "USD",
     };
 
